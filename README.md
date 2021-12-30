@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nate-Agbara
-- 👀 I’m interested in backend Java development
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on interesting projects on DevOps to broading my understanding of the culture
+- 👀 I’m a backend Java developer
+- 🌱 Excited by every learning chance
+- 💞️ Always looking to improve all-round.
 - 📫 How to reach me ...
 
 <!---
