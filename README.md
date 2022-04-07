@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m @Nate-Agbara
 
-### I’m a backend Java developer. <br> <br>
+### I’m a backend Software Developer. <br> <br>
 I love Java and I think it is an awesome stack for Enterprise Web Development. I am learning new things about Java every day. <br> <br>
+I am currently learning Node.js, TypeScript<br> <br>
 I look forward to problems because every one of them is another opportunity to learn. <br> <br>
 
 Connect with me on: <br>
@@ -12,12 +13,15 @@ Connect with me on: <br>
 ![Java](https://img.shields.io/badge/-java-9cf?&style=for-the-badge&logo=java&logoColor=black)
 ![Spring](https://img.shields.io/badge/-spring-green?&style=for-the-badge&logo=spring&logoColor=black) 
 ![Spring Boot](https://img.shields.io/badge/-springboot-brightgreen?&style=for-the-badge&logo=springboot&logoColor=black)
+![Node.js](https://img.shields.io/badge/-node-green?&style=for-the-badge&logo=node&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Maven](https://img.shields.io/badge/-maven-yellow?&style=for-the-badge&logo=maven&logoColor=black)
-![Gradle](https://img.shields.io/badge/-gradle-yellowgreen?&style=for-the-badge&logo=gradle&logoColor=black)
+![Gradle](https://img.shields.io/badge/-gradle-yellowgreen?&style=for-the-badge&logo=gradle&logoColor=black)<br>
 ![Oracle](https://img.shields.io/badge/-oracle-white?&style=for-the-badge&logo=oracle&logoColor=red)
 ![MySQL](https://img.shields.io/badge/-mysql-white?&style=for-the-badge&logo=mysql&logoColor=blue)
 ![Postgresql](https://img.shields.io/badge/-postgres-white?&style=for-the-badge&logo=postgresql&logoColor=blue)
 ![Redis](https://img.shields.io/badge/-redis-red?&style=for-the-badge&logo=redis&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/-mongodb-green?&style=for-the-badge&logo=mongodb&logoColor=blue)
 
 ### Learning..
 ![Python](https://img.shields.io/badge/-python-white?&style=for-the-badge&logo=python&logoColor=blue)
